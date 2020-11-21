@@ -19,7 +19,7 @@
             "name": "Berinjela",
             "desc": "Mussarela e antepasto de berinjela",
             "img": "https://bit.ly/3ps4bWl",
-            "price": 25.99
+            "price": 21.99
         },
         {
             "id":4,
@@ -41,6 +41,13 @@
             "desc": "Peito de Frango, Queijo, Catupiry, Azeitona, Salsa, Tomate e Orégano",
             "img": "https://bit.ly/2UoHXGe",
             "price": 30.68
+        },
+        {
+            "id":7,
+            "name": "Abobrinha",
+            "desc": "Mussarela, Provolone e Abobrinha",
+            "img": "https://bit.ly/3pNECzb",
+            "price": 27.99
         }
     ]
 }
